@@ -23,3 +23,13 @@ print(type(y))
 
 fruit_baskets=('mango','banana','orange')
 print(type(fruit_baskets))
+ 
+       #or
+
+x=12     #will give integer
+print(type(x))
+   
+       #or
+
+y='12'     #will give string
+print(type(y))
